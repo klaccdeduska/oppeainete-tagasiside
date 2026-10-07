@@ -8,3 +8,5 @@ Näited:
 - 10. klass
 - IT-23
 - 11B
+
+Töö tegi: Richard Džikia, Valeria Motorenko, Daniil Janot, Mihhail Burov :^

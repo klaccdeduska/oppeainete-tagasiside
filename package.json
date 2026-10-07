@@ -1,0 +1,26 @@
+{
+  "name": "oppeainete-tagasiside",
+  "version": "1.0.0",
+  "description": "Klassi väli on paindlik: lubatud on erinevad tähe-, numbri-, sidekriipsu-, punkti-, tühiku- ja alakriipsuga klassiformaadid (kuni 30 märki).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaccdeduska/oppeainete-tagasiside.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/klaccdeduska/oppeainete-tagasiside/issues"
+  },
+  "homepage": "https://github.com/klaccdeduska/oppeainete-tagasiside#readme",
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "mysql2": "^3.24.5"
+  }
+}
